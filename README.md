@@ -8,8 +8,8 @@ Browse popular movies, search by title, view detailed cast info, and save favori
 
 ## 🔗 Links
 
-- **Live Demo:** `https://movie-finder-vaibhav-3js6.vercel.app/`
-- **GitHub Repo:** `https://github.com/Vaibhav-patill/movie-finder-vaibhav`
+- **Live Demo:** (https://movie-finder-vaibhav.vercel.app/)
+- **GitHub Repo:** (https://github.com/Vaibhav-patill/movie-finder-vaibhav)
 
 ---
 
